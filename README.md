@@ -56,3 +56,5 @@ UniFi devices do not natively support Cloudflare as a DDNS provider. This script
 ## 🛠️ **Testing & Troubleshooting**
 
 Using this script with various Ubiquiti devices and different UniFi software versions can introduce unique challenges. If you encounter issues, start by checking the FAQ in `/docs/faq.md`. If you don’t find a solution, you can ask a question on the [discussions page](https://github.com/willswire/unifi-ddns/discussions/new?category=q-a). If the problem persists, please raise an issue [here](https://github.com/willswire/unifi-ddns/issues).
+
+x
